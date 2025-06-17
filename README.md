@@ -120,6 +120,56 @@ Achieves ~99% accuracy on the MNIST test set.
 **Problem:** Large executable size  
 **Solution:** This is expected with TensorFlow applications. Consider using UPX compression (included in the `.spec` file).
 
+## Demo-time
+
+1. App
+
+<img src="app.png" width="600">
+
+2. User interface (HOME)
+
+<img src="empty.png" width="600">
+
+3. Some digit recognition tasks
+
+<img src="0.png" width="600">
+
+<img src="1.png" width="600">
+
+<img src="4.png" width="600">
+
+<img src="8.png" width="600">
+
+<img src="9.png" width="600">
+
+4. About page
+
+<img src="about.png" width="600">
+
+5. Out of the drawing boundary
+
+<img src="out_1.png" width="600">
+
+<img src="out_2.png" width="600">
+
+<img src="out_3.png" width="600">
+
+<img src="out_4.png" width="600">
+
+6. Save
+
+<img src="save_1.png" width="600">
+
+<img src="save_2.png" width="600">
+
+7. Unknown entry
+
+<img src="uk_8.png" width="600">
+
+8. Training plot
+
+<img src="train_plot.png" width="600">
+
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
