@@ -124,51 +124,51 @@ Achieves ~99% accuracy on the MNIST test set.
 
 1. App
 
-<img src="app.png" width="600">
+<img src="app.PNG" width="600">
 
 2. User interface (HOME)
 
-<img src="empty.png" width="600">
+<img src="empty.PNG" width="600">
 
 3. Some digit recognition tasks
 
 <img src="no_0.PNG" width="600">
 
-<img src="no_1.png" width="600">
+<img src="no_1.PNG" width="600">
 
-<img src="no_4.png" width="600">
+<img src="no_4.PNG" width="600">
 
-<img src="no_8.png" width="600">
+<img src="no_8.PNG" width="600">
 
-<img src="no_9.png" width="600">
+<img src="no_9.PNG" width="600">
 
 4. About page
 
-<img src="about.png" width="600">
+<img src="about.PNG" width="600">
 
 5. Out of the drawing boundary
 
-<img src="out_1.png" width="600">
+<img src="out_1.PNG" width="600">
 
-<img src="out_2.png" width="600">
+<img src="out_2.PNG" width="600">
 
-<img src="out_3.png" width="600">
+<img src="out_3.PNG" width="600">
 
-<img src="out_4.png" width="600">
+<img src="out_4.PNG" width="600">
 
 6. Save
 
-<img src="save_1.png" width="600">
+<img src="save_1.PNG" width="600">
 
-<img src="save_2.png" width="600">
+<img src="save_2.PNG" width="600">
 
 7. Unknown entry
 
-<img src="uk_8.png" width="600">
+<img src="uk_8.PNG" width="600">
 
 8. Training plot
 
-<img src="train_plot.png" width="600">
+<img src="train_plot.PNG" width="600">
 
 ## Contributing
 
