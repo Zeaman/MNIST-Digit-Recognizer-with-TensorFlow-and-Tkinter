@@ -172,7 +172,8 @@ Achieves ~99% accuracy on the MNIST test set.
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request.
+Contributions are welcome! Please open an issue or submit a pull request. And if you want the EXE (application file), please give a star and subscribe to my 
+YouTube, then you can comment on me there, and the file will be shared instantly. 
 
 ## License
 
