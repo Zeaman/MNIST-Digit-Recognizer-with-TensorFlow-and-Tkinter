@@ -132,7 +132,7 @@ Achieves ~99% accuracy on the MNIST test set.
 
 3. Some digit recognition tasks
 
-<img src="no_0.png" width="600">
+<img src="no_0.PNG" width="600">
 
 <img src="no_1.png" width="600">
 
