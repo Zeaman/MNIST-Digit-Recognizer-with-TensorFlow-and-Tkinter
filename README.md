@@ -168,7 +168,7 @@ Achieves ~99% accuracy on the MNIST test set.
 
 8. Training plot
 
-<img src="train_plot.PNG" width="600">
+<img src="train_plot.png" width="600">
 
 ## Contributing
 
