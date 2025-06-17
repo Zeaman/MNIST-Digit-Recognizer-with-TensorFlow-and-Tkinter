@@ -2,11 +2,6 @@
 
 Here's a comprehensive README.md file for your GitHub repository:
 
-```markdown
-# MNIST Digit Recognizer with TensorFlow and Tkinter
-
-![App Screenshot](screenshot.png) <!-- Add a screenshot later -->
-
 A desktop application that recognizes handwritten digits using a trained TensorFlow/Keras model with a user-friendly Tkinter GUI.
 
 ## Features
