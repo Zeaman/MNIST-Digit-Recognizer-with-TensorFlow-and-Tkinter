@@ -41,6 +41,12 @@ A desktop application that recognizes handwritten digits using a trained TensorF
    ```bash
    pip install -r requirements.txt
    ```
+   - TensorFlow/Keras: Core ML framework for the digit recognition model
+   - NumPy: Required for numerical operations (used by TensorFlow)
+   - Matplotlib: For displaying the prediction probability chart
+   - Pillow (PIL): For image processing and handling
+   - SciPy: Often required as a dependency for scientific computing
+   - PyInstaller: For building the executable (optional for development)
 
 ## Usage
 
