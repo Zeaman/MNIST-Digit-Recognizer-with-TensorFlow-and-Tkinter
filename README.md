@@ -132,15 +132,15 @@ Achieves ~99% accuracy on the MNIST test set.
 
 3. Some digit recognition tasks
 
-<img src="0.png" width="600">
+<img src="no_0.png" width="600">
 
-<img src="1.png" width="600">
+<img src="no_1.png" width="600">
 
-<img src="4.png" width="600">
+<img src="no_4.png" width="600">
 
-<img src="8.png" width="600">
+<img src="no_8.png" width="600">
 
-<img src="9.png" width="600">
+<img src="no_9.png" width="600">
 
 4. About page
 
